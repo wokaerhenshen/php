@@ -1,0 +1,25 @@
+body{
+	font-family:"times new roman";
+	font-size:125%;
+	font-weight:bold;
+	background-color:indigo;
+	color:white;
+}
+
+.error{
+	background-color:yellow;
+	border-color:red;
+}
+a{
+	color:white;
+}
+fieldset{
+	width:180px;
+	color:white;
+	background-color:black;
+	top:130px;
+	right:30px;
+}
+ul{
+	font-weight:bold;
+}
